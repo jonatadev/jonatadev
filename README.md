@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![twitter badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/jonatadev)](https://twitter.com/jonatadev)
 <!--
 **jonatadev/jonatadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
