@@ -16,6 +16,10 @@ I am a very energetic, open-minded and curious person and of course a passionate
 <p align="center">
   
 [![Twitter Badge](https://img.shields.io/badge/-Jonatas_Alves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonatadev)](https://twitter.com/jonatadev)
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/jonatadev?style=social)](https://img.shields.io/twitter/follow/jonatadev?style=social)
+
+
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jonatas_Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatasdev/)](https://www.linkedin.com/in/jonatasdev/) 
 
