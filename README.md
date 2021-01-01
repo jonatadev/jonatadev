@@ -6,12 +6,20 @@ First Header                                                                    
                                                                                    |  
 
 
-## Tech Stach
+## Tech Stach: ##
 
-## Get in Touch
+## Get in Touch: ##
 [![twitter badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/jonatadev)]
 (https://twitter.com/jonatadev)
 
 
-## GitHub Stats
-[![Jonatas Alves github stats](https://github-readme-stats.vercel.app/api?username=jonatadev)](https://github.com/jonatadev/github-readme-stats)
+## GitHub Stats: ##
+<p align="center">
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jonatadev&hide=stars&show_icons=true&theme=dracula&line_height=32">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatadev&count_private=true&theme=dracula">
+  <div>
+    
+</p>
+
