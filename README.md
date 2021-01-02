@@ -32,7 +32,7 @@ I am a very energetic, open-minded and curious person and of course a passionate
 
 ## GitHub Stats: ##
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonatadev&hide=stars&show_icons=true&theme=dark&line_height=32">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatadev&count_private=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=jonatadev&show_icons=true&theme=dark&line_height=32">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatadev&langs_count=10&count_private=true&theme=dark">
 </p>
 
