@@ -3,10 +3,6 @@ I am a very energetic, open-minded and curious person and of course a passionate
 
 ![](https://komarev.com/ghpvc/?username=jonatadev&color=brightgreen)
 
-<p align="right">
-  <img src="images/giphy.webp" alt="Ada Lovelace"></img>
-</p>
-
 ## Tech Stack: ##
 <p align="center">
   <div align="center" float="left">
