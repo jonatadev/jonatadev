@@ -1,4 +1,4 @@
-I'm a **Backend Software Engineer from Brazil**, passionate about building reliable, scalable, and maintainable software.
+I'm a **Software Engineer from Brazil**, passionate about building reliable, scalable, and maintainable software.
 > Stay curious. Keep learning. Build things that matter.
 ### 🌱 Currently Exploring
 
